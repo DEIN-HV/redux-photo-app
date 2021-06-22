@@ -18,7 +18,7 @@ function App() {
           <ul>
             <li><Link to="/photos">Go to photo page</Link></li>
             <li><Link to="/photos/add">Go to add photo page</Link></li>
-            <li><Link to="/photos/123">Go to edit photo page</Link></li>
+            <li><Link to="/photos/123">Go to edit photo pages</Link></li>
           </ul>
 
           <Switch>
